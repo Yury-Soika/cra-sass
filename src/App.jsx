@@ -85,25 +85,25 @@ function App() {
               <article>
                 <h2>Move the borders of reality!</h2>
                 <h5>Go on a space adventure </h5>
-                <button>Learn more</button>
+                <button type='button'>Learn more</button>
               </article>
 
               <article>
                 <h2>Space is not just stars and planets</h2>
                 <h5>it is a majestic journey to </h5>
-                <button>Learn more</button>
+                <button type='button'>Learn more</button>
               </article>
 
               <article>
                 <h2>For those who dream of stars </h2>
                 <h5>Our offer: make your dream come true</h5>
-                <button>Learn more</button>
+                <button type='button'>Learn more</button>
               </article>
 
               <article>
                 <h2>Fulfill your fantastic dreams</h2>
                 <h5>Space has never been so close</h5>
-                <button>Learn more</button>
+                <button type='button'>Learn more</button>
               </article>
             </div>
           </section>
@@ -124,7 +124,7 @@ function App() {
               space. We offer various options for space excursions.
             </article>
 
-            <a href='https://#'>Read more</a>
+            <a href='#read-more'>Read more</a>
           </section>
         </main>
         <footer>
