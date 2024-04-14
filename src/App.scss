@@ -48,6 +48,11 @@ $posts-bg-images: (
   height: 33px;
   width: 161px;
   border-radius: 17px;
+
+  &:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
 }
 
 %image-style {
@@ -170,6 +175,19 @@ header {
         .backet-btn {
           color: rgba(0, 0, 0, 0);
           background: url("./images/backet.svg") no-repeat 24px 15px;
+        }
+
+        a {
+          &:hover:not(:last-child) {
+            color: transparent;
+            background-image: linear-gradient(to right, $yellow-color, $pink-color);
+            -webkit-background-clip: text;
+            background-clip: text;
+          }
+
+          &:hover:last-child {
+            background: url("./images/backet-hover.svg") no-repeat 24px 15px;
+          }
         }
       }
     }
@@ -360,16 +378,38 @@ main {
           margin-top: 1rem;
         }
       }
-    }
 
-    @media screen and (max-width: 768) and (min-width: 760px) {
-      .posts {
+      @media screen and (min-width: 760px) {
         display: flex;
         flex-flow: row wrap;
         justify-content: space-between;
 
         article {
           max-width: 350px;
+        }
+      }
+
+      @media screen and (min-width: 760px) {
+        justify-content: space-between;
+
+        article {
+          max-width: 350px;
+        }
+      }
+
+      @media screen and (min-width: 769px) {
+        article {
+          flex: 1;
+          max-width: 100%;
+
+          &:nth-child(1),
+          &:nth-child(4) {
+            flex-basis: 100%;
+          }
+
+          &:nth-child(2) {
+            margin-right: 2rem;
+          }
         }
       }
     }
@@ -388,7 +428,15 @@ main {
     a {
       text-decoration: none;
       color: $yellow-color;
+
+      &:hover {
+        opacity: 0.6;
+      }
     }
+  }
+
+  @media screen and (min-width: 769px) {
+    padding: 3rem;
   }
 }
 
