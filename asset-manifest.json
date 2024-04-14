@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cra-sass/static/css/main.74e6e095.css",
+    "main.css": "/cra-sass/static/css/main.626e2095.css",
     "main.js": "/cra-sass/static/js/main.163a1c69.js",
     "static/media/hero-container-backgound.jpeg": "/cra-sass/static/media/hero-container-backgound.2307badd490c555403c5.jpeg",
     "static/media/rocket.png": "/cra-sass/static/media/rocket.d56059afc2f745f15ced.png",
@@ -14,11 +14,11 @@
     "static/media/backet.svg": "/cra-sass/static/media/backet.3bee0385f50587ab9a5e.svg",
     "static/media/burger-close.svg": "/cra-sass/static/media/burger-close.c81eac827ae5ea7890fc.svg",
     "index.html": "/cra-sass/index.html",
-    "main.74e6e095.css.map": "/cra-sass/static/css/main.74e6e095.css.map",
+    "main.626e2095.css.map": "/cra-sass/static/css/main.626e2095.css.map",
     "main.163a1c69.js.map": "/cra-sass/static/js/main.163a1c69.js.map"
   },
   "entrypoints": [
-    "static/css/main.74e6e095.css",
+    "static/css/main.626e2095.css",
     "static/js/main.163a1c69.js"
   ]
 }
