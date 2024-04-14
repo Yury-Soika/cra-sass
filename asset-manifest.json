@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cra-sass/static/css/main.74e6e095.css",
+    "main.js": "/cra-sass/static/js/main.163a1c69.js",
+    "static/media/hero-container-backgound.jpeg": "/cra-sass/static/media/hero-container-backgound.2307badd490c555403c5.jpeg",
+    "static/media/rocket.png": "/cra-sass/static/media/rocket.d56059afc2f745f15ced.png",
+    "static/media/background-container-3.jpeg": "/cra-sass/static/media/background-container-3.397dc67f3b596c110af6.jpeg",
+    "static/media/earth.png": "/cra-sass/static/media/earth.bb828735fb7f15cf08a8.png",
+    "static/media/background-container-4.jpeg": "/cra-sass/static/media/background-container-4.88e027f751493b299667.jpeg",
+    "static/media/background-container-1.jpeg": "/cra-sass/static/media/background-container-1.03dd788b7d2496e6e5cc.jpeg",
+    "static/media/background-container-2.jpeg": "/cra-sass/static/media/background-container-2.b67c767a73b8a05257e5.jpeg",
+    "static/media/backet-hover.svg": "/cra-sass/static/media/backet-hover.130703b7b0cf9871648f.svg",
+    "static/media/burger-open.svg": "/cra-sass/static/media/burger-open.2e9d36dd01dc49476ae2.svg",
+    "static/media/backet.svg": "/cra-sass/static/media/backet.3bee0385f50587ab9a5e.svg",
+    "static/media/burger-close.svg": "/cra-sass/static/media/burger-close.c81eac827ae5ea7890fc.svg",
+    "index.html": "/cra-sass/index.html",
+    "main.74e6e095.css.map": "/cra-sass/static/css/main.74e6e095.css.map",
+    "main.163a1c69.js.map": "/cra-sass/static/js/main.163a1c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e6e095.css",
+    "static/js/main.163a1c69.js"
+  ]
+}
