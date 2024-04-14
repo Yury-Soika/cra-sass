@@ -152,6 +152,7 @@ header {
       @include flex-container;
       position: absolute;
       background-color: $black-color;
+      top: 3rem;
       left: 0;
     }
 
